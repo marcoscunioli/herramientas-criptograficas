@@ -1,6 +1,5 @@
-streamlit
-pycryptodome
-matplotlib
-pandas
-numpy
-Pillow
+argon2==0.1.10
+matplotlib==3.10.5
+pycryptodome==3.23.0
+python_bcrypt==0.3.2
+streamlit==1.47.1
