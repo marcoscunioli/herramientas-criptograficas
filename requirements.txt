@@ -1,2 +1,6 @@
 streamlit
 pycryptodome
+matplotlib
+pandas
+numpy
+Pillow
